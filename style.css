@@ -1,11 +1,11 @@
 * {
-  color: ;Black
+  color: ;Grey
   text-decoration: none;
   transition: 0.3s;
 }
 
 nav a:hover {
-  color: #00bfff;
+  color: #787272;
 }
 
 .hero {
